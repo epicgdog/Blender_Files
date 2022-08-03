@@ -9,5 +9,3 @@ i think this is `pistol.fbx`
 TODO:
 - need to create a website that will render out the `.fbx` files
 - use replit :) and threejs
-
-API Token: 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
